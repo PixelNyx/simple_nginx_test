@@ -24,4 +24,4 @@ spec:
         - name: nginx-index
           configMap:
             # Alternate between '-blue' and '-red' to test changes.
-            name: welcome-red
+            name: welcome-blue
