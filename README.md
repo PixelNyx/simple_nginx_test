@@ -1,0 +1,1 @@
+This repo provides manifests for a very simple kubernetes change test.  There are two configmaps providing different versions of the nginx welcome page.  Simply change the configmap reference between [red|blue] to test changes.
