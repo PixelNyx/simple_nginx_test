@@ -23,5 +23,5 @@ spec:
       volumes:
         - name: nginx-index
           configMap:
-            # Change to `welcome-red` to make a test change
-            name: welcome-blue
+            # Alternate between '-blue' and '-red' to test changes.
+            name: welcome-red
