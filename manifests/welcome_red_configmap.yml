@@ -16,6 +16,6 @@ data:
     </head>
     <body>
     <h1>Welcome to nginx!</h1>
-    <p style="color: red;">VERSION 1</p>
+    <p style="color: red;">VERSION RED</p>
     </body>
     </html>
